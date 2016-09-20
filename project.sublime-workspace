@@ -56,10 +56,10 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Unity/Stady_2d-shooting-game-master/project.sublime-project",
+			"file": "Assets/ScoreController.cs",
 			"settings":
 			{
-				"buffer_size": 102,
+				"buffer_size": 753,
 				"line_ending": "Unix"
 			}
 		}
@@ -119,7 +119,9 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Unity/Stady_2d-shooting-game-master"
+		"/C/Unity/Study_3DGameApp",
+		"/C/Unity/Study_3DGameApp/Assets",
+		"/C/Unity/Study_3DGameApp/Library"
 	],
 	"file_history":
 	[
@@ -185,25 +187,26 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Unity/Stady_2d-shooting-game-master/project.sublime-project",
+					"file": "Assets/ScoreController.cs",
 					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 102,
+						"buffer_size": 753,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								286,
+								346
 							]
 						],
 						"settings":
 						{
-							"origin_encoding": "ASCII",
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
